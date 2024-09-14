@@ -4,10 +4,11 @@ body {
 }
 
 a {
-    color: white;
+    color: gray;
     text-decoration: none;
 }
 
 a:hover {
+    color: red;
     text-decoration: none;
 }
