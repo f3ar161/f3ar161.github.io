@@ -1,7 +1,5 @@
 ## Results
 
-The performance of the model is reasonably well but may benefit from futher tuning or additional data to improve its performance.
-
 Accuracy: This metric indicates that approximately 69.42% of the predictions made by the model were correct. While this is a decent accuracy, it suggests there is room for improvement.
 
 F1 Score: The F1 Score of 0.7384 suggests a good balance between precision and recall. This is particularly useful in cases where you need to balance false positives and false negatives.

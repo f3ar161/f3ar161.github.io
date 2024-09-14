@@ -33,6 +33,8 @@ BERT with an MLP (Multi-Layer Perceptron), we can enhance its feature extraction
 
 ## Results
 
+The performance of the model is reasonably well but may benefit from futher tuning or additional data to improve its performance.
+
 [Learn more...](./results.md)
 
 
