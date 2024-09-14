@@ -7,6 +7,33 @@ However, recent years have highlighted a pressing need for automation in the app
 
 This project proposes an automated workflow that involves analyzing the log data associated with each application. By scrutinizing this information, we aim to discriminate between legitimate applications and spam, thereby focusing our efforts on a refined analysis.
 
-[Methodology](./methodology.md)
+## Methodology
+
+Within data processing, we will work with real application data with the following statuses: approved, rejected, unverified, pending, disabled, competitive, recognized, and provisional.
+
+![apps_amount](./images/apps_amount.png)
+*Number of applications by status*
+
+[Learn more...](./methodology.md)
 
 <link rel="stylesheet" type="text/css" href="./styles.css">
+
+## Implementation
+
+
+First, the dataset is loaded from a CSV file. The file path is specified, and the dataset is read using pandas.read_csv with a specified delimiter (;). Any rows with missing values in the 'description' column are dropped.
+
+[Learn more...](./train.md)
+
+## Train Step
+
+BERT (Bidirectional Encoder Representations from Transformers) is a powerful model for natural language processing tasks, known for its ability to understand the context of words in a sentence. 
+
+BERT with an MLP (Multi-Layer Perceptron), we can enhance its feature extraction capabilities. This combination leverages the strengths of both models, leading to more effective and task-specific feature representations. The MLP introduces non-linear transformations and can adapt the general features extracted by BERT to better suit specific tasks, often resulting in improved performance.
+
+[Learn more...](./train_step2.md)
+
+
+## Results
+
+[Learn more...](./results.md)
