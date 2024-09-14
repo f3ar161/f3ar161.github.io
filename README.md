@@ -1,5 +1,5 @@
 
-<h1 style="color: red;text-decoration: none;">GP - Project v4</h1>
+<h1 style="color: red;text-decoration: none;">Spam detection  in application submission v4</h1>
 
 Within the video game industry, a suite of services has emerged that facilitate the acquisition of data via APIs. To support this, development portals are provided by companies, offering a shared space where external developers can access and leverage these platforms. A prime example of this is Riot Games and its platform, [developer.riotgames](https://developer.riotgames.com/), which grants users access to data from all their games through custom-built applications.
 
