@@ -6,7 +6,6 @@ However, recent years have highlighted a pressing need for automation in the app
 
 This project proposes an automated workflow that involves analyzing the log data associated with each application. By scrutinizing this information, we aim to discriminate between legitimate applications and spam, thereby focusing our efforts on a refined analysis.
 
-[Methodology](./methodology.md)
-
+<h4><a href="./methodology.md" style="color: red;text-decoration: none;">Methodology</a></h4>
 
 <link rel="stylesheet" type="text/css" href="./styles.css">
