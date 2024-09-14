@@ -203,3 +203,6 @@ Training Loss: 0.6932
 Validation Loss: 0.6835
 Validation Accuracy: 0.5864
 ```
+
+
+<link rel="stylesheet" type="text/css" href="./styles.css">

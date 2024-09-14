@@ -90,7 +90,7 @@ def prepare_data_for_bert(df, tokenizer, max_length=128):
     return input_ids, attention_masks, labels
 ```
 
-## [Train Step](./methodology.md)
+## [Train Step](./train.md)
 
 
 <link rel="stylesheet" type="text/css" href="./styles.css">
