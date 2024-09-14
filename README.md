@@ -37,5 +37,9 @@ The performance of the model is reasonably well but may benefit from futher tuni
 
 [Learn more...](./results.md)
 
+## Repository
+
+[Code implementation](https://github.com/f3ar161/practicePython/blob/main/BertMLP/gp_v4.ipynb)
+
 
 <link rel="stylesheet" type="text/css" href="./styles.css">
