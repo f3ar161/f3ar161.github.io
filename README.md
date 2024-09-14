@@ -5,3 +5,8 @@ Within the video game industry, a suite of services has emerged that facilitate 
 However, recent years have highlighted a pressing need for automation in the application creation process to mitigate the platform's misuse, namely, the unrestricted proliferation of applications. Such practices have a detrimental impact on the user experience of both players and developers alike.
 
 This project proposes an automated workflow that involves analyzing the log data associated with each application. By scrutinizing this information, we aim to discriminate between legitimate applications and spam, thereby focusing our efforts on a refined analysis.
+
+[Methodology](./methodology.md)
+
+
+<link rel="stylesheet" type="text/css" href="./styles.css">
