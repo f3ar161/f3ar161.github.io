@@ -12,6 +12,7 @@ This project proposes an automated workflow that involves analyzing the log data
 Within data processing, we will work with real application data with the following statuses: approved, rejected, unverified, pending, disabled, competitive, recognized, and provisional.
 
 ![apps_amount](./images/apps_amount.png)
+
 *Number of applications by status*
 
 [Learn more...](./methodology.md)

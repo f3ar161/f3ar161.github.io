@@ -13,15 +13,18 @@ ROC AUC: The ROC AUC score of 0.6867 indicates that the model has a fair ability
 - ROC AUC: 0.6867
 
 ![train](./images/train.png)
+
 *Train and validation loss*
 
 ![acc](./images/acc.png)
+
 *Validation accuracy*
 
 
 ROC: The AUC of 0.69 suggests that the model is moderately effective in distinguishing between positive and negative instances.
 
 ![roc](./images/roc.png)
+
 *ROC curve*
 
 
