@@ -15,10 +15,6 @@ Within data processing, we will work with real application data with the followi
 
 *Number of applications by status*
 
-[Learn more...](./methodology.md)
-
-<link rel="stylesheet" type="text/css" href="./styles.css">
-
 ## Implementation
 
 
@@ -38,3 +34,6 @@ BERT with an MLP (Multi-Layer Perceptron), we can enhance its feature extraction
 ## Results
 
 [Learn more...](./results.md)
+
+
+<link rel="stylesheet" type="text/css" href="./styles.css">
