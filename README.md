@@ -7,7 +7,7 @@ However, recent years have highlighted a pressing need for automation in the app
 
 This project proposes an automated workflow that involves analyzing the log data associated with each application. By scrutinizing this information, we aim to discriminate between legitimate applications and spam, thereby focusing our efforts on a refined analysis.
 
-## Methodology
+## Dataset
 
 Within data processing, we will work with real application data with the following statuses: approved, rejected, unverified, pending, disabled, competitive, recognized, and provisional.
 
